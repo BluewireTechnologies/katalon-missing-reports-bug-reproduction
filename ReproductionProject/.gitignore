@@ -1,0 +1,13 @@
+.classpath
+.meta
+.project
+.settings
+bin
+com.kms.katalon.composer.*
+com.kms.katalon.execution.webui.*
+com.kms.katalon.integration.*
+config
+console.properties
+debug.log
+Libs
+Reports
